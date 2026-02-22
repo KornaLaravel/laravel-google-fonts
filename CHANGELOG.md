@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-google-fonts` will be documented in this file.
 
+## 1.5.0 - 2026-02-22
+
+Add Laravel 13.x support
+
 ## 1.4.4 - 2025-09-08
 
 ### What's Changed
