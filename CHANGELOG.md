@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-google-fonts` will be documented in this file.
 
+## 1.6.0 - 2026-04-27
+
+### What's Changed
+
+* Allow lazy fetching (only for fonts not already fetched) by @vpratfr in https://github.com/spatie/laravel-google-fonts/pull/60
+
+### New Contributors
+
+* @vpratfr made their first contribution in https://github.com/spatie/laravel-google-fonts/pull/60
+
+**Full Changelog**: https://github.com/spatie/laravel-google-fonts/compare/1.5.0...1.6.0
+
 ## 1.5.0 - 2026-02-22
 
 Add Laravel 13.x support
