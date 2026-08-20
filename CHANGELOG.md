@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-google-fonts` will be documented in this file.
 
+## 1.7.0 - 2026-08-20
+
+### What's Changed
+
+* Allow Guzzle 8 by @freekmurze in https://github.com/spatie/laravel-google-fonts/pull/63
+
+### New Contributors
+
+* @freekmurze made their first contribution in https://github.com/spatie/laravel-google-fonts/pull/63
+
+**Full Changelog**: https://github.com/spatie/laravel-google-fonts/compare/1.6.0...1.7.0
+
 ## 1.6.0 - 2026-04-27
 
 ### What's Changed
